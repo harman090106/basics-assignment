@@ -1,0 +1,13 @@
+    //q2.
+    //cout<<5+5;
+    
+    //q3.
+    //int = 4 bytes
+    //bool = 1 byte
+    //float = 4 bytes
+    
+    //q4.
+    //6 4
+    
+    //q6.
+    //_FLOAT int FLOAT
